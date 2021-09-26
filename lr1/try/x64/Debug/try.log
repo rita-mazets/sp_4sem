@@ -1,0 +1,6 @@
+﻿  besit.cpp
+D:\учеба\5 семестр\sp\lr1\try\besit.cpp(198,12): warning C4244: return: преобразование "WPARAM" в "int", возможна потеря данных
+D:\учеба\5 семестр\sp\lr1\try\besit.cpp(221,1): warning C4312: приведение типов: преобразование из "int" в "HMENU" большего размера
+D:\учеба\5 семестр\sp\lr1\try\besit.cpp(225,1): warning C4312: приведение типов: преобразование из "int" в "HMENU" большего размера
+D:\учеба\5 семестр\sp\lr1\try\besit.cpp(229,1): warning C4312: приведение типов: преобразование из "int" в "HMENU" большего размера
+  try.vcxproj -> D:\учеба\5 семестр\sp\lr1\x64\Debug\try.exe
