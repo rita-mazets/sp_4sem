@@ -1,0 +1,7 @@
+﻿  lr6.cpp
+C:\Users\mita_razets\source\repos\lr6\lr6\lr6.cpp(216,26): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\mita_razets\source\repos\lr6\lr6\lr6.cpp(217,24): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\mita_razets\source\repos\lr6\lr6\lr6.cpp(221,26): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\mita_razets\source\repos\lr6\lr6\lr6.cpp(222,24): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\mita_razets\source\repos\lr6\lr6\lr6.cpp(158,34): warning C4101: dwThreadId3: неиспользованная локальная переменная
+  lr6.vcxproj -> C:\Users\mita_razets\source\repos\lr6\Debug\lr6.exe
