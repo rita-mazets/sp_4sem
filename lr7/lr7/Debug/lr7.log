@@ -1,0 +1,3 @@
+﻿  lr7.cpp
+C:\Users\mita_razets\source\repos\lr7\lr7\lr7.cpp(125,9): warning C4101: i: неиспользованная локальная переменная
+  lr7.vcxproj -> C:\Users\mita_razets\source\repos\lr7\Debug\lr7.exe
